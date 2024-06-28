@@ -7,11 +7,11 @@
         {
             "type": "node",
             "request": "launch",
-            "name": "프로그램 시작",
+            "name": "simple/client.js(node) 프로그램 시작",
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/app.js"
+            "program": "${workspaceFolder}/simple/client.js"
         }
     ]
 }
