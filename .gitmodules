@@ -1,0 +1,3 @@
+[submodule "yjs-demos"]
+	path = yjs-demos
+	url = https://github.com/yjs/yjs-demos.git
