@@ -12,6 +12,15 @@
                 "<node_internals>/**"
             ],
             "program": "${workspaceFolder}/simple/client.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "pdfjs/server.js(node) 프로그램 시작",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}/pdfjs/server.js"
         }
     ]
 }
